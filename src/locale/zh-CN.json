@@ -1,0 +1,14 @@
+{
+  "Connect coding agent": "连接编码 agent",
+  "Instance address": "实例地址",
+  "Taken from the PORTAL_AGENT_PUBLIC_URL environment variable.": "取自 PORTAL_AGENT_PUBLIC_URL 环境变量。",
+  "Detected from this browser. Behind a tunnel or proxy, type the public address instead.": "按当前浏览器地址推断。挂了隧道或反向代理时，请手动填对外地址。",
+  "CLI environment name": "CLI 环境名",
+  "The name the agent registers this instance under.": "agent 在自己的 CLI 里给这个实例起的名字。",
+  "Copy prompt": "复制 Prompt",
+  "Copied": "已复制",
+  "Paste this into your coding agent. It connects to this instance and pulls the portal source.": "把这段粘贴给你的 coding agent，它会连上这个实例并拉取门户源码。",
+  "Close": "关闭",
+  "Prompt copied. Paste it into your coding agent.": "已复制，粘贴给你的 coding agent 即可。",
+  "Copy failed, select the text and copy it by hand": "复制失败，请打开预览手动选中复制"
+}
